@@ -1,7 +1,5 @@
 reference:
   - title: "webmockr"
-    desc: >
-      High level overview of package
     contents:
       - webmockr
       - webmockr-package
